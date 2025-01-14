@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elhunter1990
-- 👀 I’m interested in ... Writing, Videogames, Tabletop games, Music, 
-- 🌱 I’m currently learning ... C++, Java, Python
+- 👀 I’m interested in ... Mobile App Development, Web Development, and System Design.
+- 🌱 I’m currently learning ... C++, Java, Python, Go, JavaScript, Dart
 - 💞️ I’m looking to collaborate on ...Any basic project to further my skills. 
 - 📫 How to reach me ... Email me at Elhunter1990@yahoo.com
 
