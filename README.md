@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elhunter1990
+- 👋 Hi, I’m Eric Hunter
 - 👀 I’m interested in ... Mobile App Development, Web Development, and System Design.
 - 🌱 I’m currently learning ... C++, Java, Python, Go, JavaScript, Dart
 - 💞️ I’m looking to collaborate on ...Any basic project to further my skills. 
